@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Notes</string>
+    <string name="msc">Москва</string>
+    <string name="ebrg">Екатеринбург</string>
+    <string name="nsk">Новосибирск</string>
+    <string name="ebrg2">ЕКАТЕРИНБУРГ</string>
+    <string name="msc2">МОСКВА</string>
+    <string name="nsk2">НОВОСИБИРСК</string>
 </resources>
